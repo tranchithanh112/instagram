@@ -1,0 +1,9 @@
+.form-control{
+    
+    width:200px !important;
+    height: 25px !important;
+    font-size: 12px !important;
+}
+a.instagram:hover{
+    text-decoration: none;
+}
