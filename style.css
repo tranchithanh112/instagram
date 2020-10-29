@@ -7,3 +7,28 @@
 a.instagram:hover{
     text-decoration: none;
 }
+.story{
+    border: 1px solid #00000038;
+    height: 90px !important;
+}
+.story-pic .rounded-circle{
+    border:2px solid #fd3a1d
+ 
+}
+.story{
+    font-size:10px;
+}
+span{
+    align:center !important;
+    text-align: center !important;
+}
+body{
+    font-family:inherit ,sans-serif !important;
+}
+.real-name{
+    color:#0000004f !important;
+}
+.name{
+    font-weight:600;
+    font-size:13px;
+}
