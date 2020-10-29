@@ -32,3 +32,6 @@ body{
     font-weight:600;
     font-size:13px;
 }
+.form-control:focus{
+    text-align:left !important;
+}
