@@ -35,3 +35,24 @@ body{
 .form-control:focus{
     text-align:left !important;
 }
+.suggestions{
+    font-size:14px;
+    
+    list-style:none;
+    text-decoration: none;
+    
+}
+.sug{
+    color:grey
+}
+.sug:hover{
+    text-decoration: none;
+    color:grey
+}
+.person{
+    font-size:10px;
+    font-weight:bold;
+}
+.followed{
+    font-weight: normal !important;
+}
